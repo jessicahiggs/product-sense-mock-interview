@@ -62,18 +62,6 @@ the hard call. Pick one and defend it against the runner-up.
 
 No scores or grades — just specific, quotable feedback tied to what you actually said.
 
-## The framework
-
-It's built around an 8-step **Sense Framework**:
-
-1. **Why?** — motivation, business case, competitive landscape, risk
-2. **Who?** — segment the ecosystem, pick one sub-segment to prioritize
-3. **User journey & pain points** — map 3-5 pain points, pick one to prioritize
-4. **Set product mission** — a one-line mission tying segment + pain point together
-5. **Prioritize criteria for solutions** — what will make a solution good
-6. **Solutions** — generate 3, mixing moonshot and practical
-7. **Prioritize 1 solution** — justified by the mission, impact, and scalability
-8. **Measure success** — define the critical action that counts as "engaged"
 
 See [`references/framework.md`](product-sense-mock-interview/references/framework.md) for the full
 framework with sub-questions and the default timing breakdown for a 40-minute session.
