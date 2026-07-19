@@ -63,9 +63,6 @@ the hard call. Pick one and defend it against the runner-up.
 No scores or grades — just specific, quotable feedback tied to what you actually said.
 
 
-See [`references/framework.md`](product-sense-mock-interview/references/framework.md) for the full
-framework with sub-questions and the default timing breakdown for a 40-minute session.
-
 ## Installing
 
 **Claude Code / Claude Agent SDK / Cowork:** drop the `product-sense-mock-interview/` folder into
