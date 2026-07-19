@@ -1,6 +1,6 @@
 # Product Sense Mock Interview Partner
 
-Written by Jessica Higgs.
+Written by [jessicahiggs](https://github.com/jessicahiggs).
 
 A Claude skill that runs a live, timed mock **product sense interview** — the kind of case
 interview used for PM roles at most top tech companies ("Design a product for X," "How would you
