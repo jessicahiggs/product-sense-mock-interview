@@ -74,6 +74,9 @@ conversation just say something like:
 **No case handy?** Ask Claude to give you one — it'll generate a realistic case from a real
 company/product area.
 
+**How long it takes:** a full case runs about 10–15 minutes, plus a couple of minutes of
+feedback at the end — close to a real interview round, so you can practice under realistic pacing.
+
 ## Customizing
 
 The framework in `product-sense-mock-interview/references/framework.md` is easy to swap out for
