@@ -72,7 +72,8 @@ conversation just say something like:
 > Mock interview me on this: "Design a feature for Spotify to increase podcast discovery."
 
 **No case handy?** Ask Claude to give you one — it'll generate a realistic case from a real
-company/product area.
+company/product area. You can also aim it: name a company, product area, or seniority
+("a staff-level case for a fintech app") and it'll tailor the prompt to what you're preparing for.
 
 **How long it takes:** a full case runs about 10–15 minutes, plus a couple of minutes of
 feedback at the end — close to a real interview round, so you can practice under realistic pacing.
